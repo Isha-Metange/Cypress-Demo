@@ -1,0 +1,9 @@
+methods                         assertions
+
+visit                            should
+get
+find
+eq
+type 
+contains 
+click 
